@@ -1,0 +1,21 @@
+Anime Recommender
+Instructions: Just run the main file and it will print out a set of
+instructions for the user to follow
+
+Description: The goal is to try and recommend the best anime for the user
+based on the input on what genre that the user wants. It will ask the user
+each genre and the user types in "yes" or "no" to decide which genre
+they would like to pick.
+
+This project contains Document Search and Recommendations. From the internet,
+I downloaded a cvs file that contains information about anime from the
+myanimelist website and read the document in order to pick the best anime.
+
+When creating the algorithm for the recommendation, I realized it was
+going to be a bit too much to try and implement multiple different
+restrictions with the time I had left, so I just stuck to genres. If I had
+more time or more people, I would try to implement more restrictions in order
+to make sure that the recommendation is the best.
+
+This is where I got the cvs file from
+https://www.kaggle.com/datasets/azathoth42/myanimelist
